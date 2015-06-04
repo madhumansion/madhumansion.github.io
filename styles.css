@@ -1,6 +1,8 @@
 .row {
   max-width: 100%; }
-
+body {
+    background-image: url("bk.jpg");
+}
 .menu {
   background-color: #292c2f;
   padding: 1.5rem 3rem;
