@@ -1,5 +1,5 @@
 # madhumansion.github.io
-Madhu Mansion Charitable Trusti
+Madhu Mansion Charitable Trust (Website development and hosting on github)
 
 ## todo:
 
